@@ -147,7 +147,9 @@ def UpdateAsync(self, model: ProyectModel) -> bool:
 **Ingrid Mendoza Cabrera**  
 *[ingrid.mendoza@axity.com]*  
 
+![Firma](https://github.com/Axitymx/24_AXITY_AR36_ALSHAIN_APPIUM_PYTHON/blob/main/assets/CReA.png)
+
 ## Licencia
 
 [MIT](https://opensource.org/licenses/MIT)
-![Firma](https://github.com/Axitymx/24_AXITY_AR36_ALSHAIN_APPIUM_PYTHON/blob/main/assets/CReA.png)
+
