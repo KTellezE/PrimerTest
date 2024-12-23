@@ -150,4 +150,4 @@ def UpdateAsync(self, model: ProyectModel) -> bool:
 ## Licencia
 
 [MIT](https://opensource.org/licenses/MIT)
-![Firma](https://intellego365.sharepoint.com/sites/CentralAxity/Corporativo/CReA/SiteAssets/SitePages/Home/2045444044CReA_inicial.png)
+![Firma](https://github.com/Axitymx/24_AXITY_AR36_ALSHAIN_APPIUM_PYTHON/blob/main/assets/CReA.png)
